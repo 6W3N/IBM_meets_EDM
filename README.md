@@ -19,4 +19,3 @@ IBM (NetLogo) script for ESJ68.
 You CANNOT save output the dynamics using NetLogo web because extensions may nt work on the web. If you want dynamics data, please download NetLogo on your desktop and run the code there.
 Download URL is [here](http://ccl.northwestern.edu/netlogo/).
 
-o
