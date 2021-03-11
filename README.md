@@ -16,6 +16,6 @@ IBM (NetLogo) script for ESJ68.
 7. You can change the competition variables by slidebar even when simulation is running.
 
 ### Caution!
-You CANNOT save output the dynamics using NetLogo web because extensions may nt work on the web. If you want dynamics data, please download NetLogo on your desktop and run the code there.
+You CANNOT save output the dynamics using NetLogo web because extensions may not work on the web. If you want dynamics data, please download NetLogo on your desktop and run the code there.
 Download URL is [here](http://ccl.northwestern.edu/netlogo/).
 
