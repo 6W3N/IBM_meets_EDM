@@ -1,7 +1,7 @@
 # IBM_meets_EDM
 IBM (NetLogo) script for ESJ68.
 
-## Easy way
+## Quick Start
 1. Download this repository. Click [here](https://github.com/6W3N/IBM_meets_EDM/archive/main.zip).
 2. Open [NetLogo web](https://www.netlogoweb.org/).
 3. Click "Runs in Your Browser".
